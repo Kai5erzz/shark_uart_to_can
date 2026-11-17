@@ -1,0 +1,2 @@
+# Single-channel factory USB2CANFD. Run the GUI as the logged-in desktop user.
+SUBSYSTEM=="usb", ATTR{idVendor}=="34b7", ATTR{idProduct}=="6877", TAG+="uaccess"

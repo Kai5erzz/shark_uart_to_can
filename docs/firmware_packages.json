@@ -1,0 +1,24 @@
+{
+  "cubemx_version": "6.18.1",
+  "firmware": "STM32Cube FW_G4 V1.6.3",
+  "repository": "/media/kaiser/D盘2/STM32Cube/Repository",
+  "installed_package": "/media/kaiser/D盘2/STM32Cube/Repository/STM32Cube_FW_G4_V1.6.3",
+  "packages": [
+    {
+      "file": "stm32cube_fw_g4_v160.zip",
+      "path": "/media/kaiser/D盘2/STM32Cube/Repository/stm32cube_fw_g4_v160.zip",
+      "url": "https://sw-center.st.com/packs/resource/firmware/stm32cube_fw_g4_v160.zip",
+      "bytes": 213146838,
+      "md5": "705d954a97fbe058b40b5ef87ac34050",
+      "sha256": "5919bb06c56b4f991160ace5aab87f0c7b6e33ae71f7a3b5ecf18b870a13645d"
+    },
+    {
+      "file": "stm32cube_fw_g4_v163.zip",
+      "path": "/media/kaiser/D盘2/STM32Cube/Repository/stm32cube_fw_g4_v163.zip",
+      "url": "https://sw-center.st.com/packs/resource/firmware/stm32cube_fw_g4_v163.zip",
+      "bytes": 167759060,
+      "md5": "e448f6500f4edef1b848ecdaa55dd538",
+      "sha256": "2732fe9fd37911d5ab130ace116b92f171abad2bbd11117bdfdce7cbe7047cb7"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Debug": {
+    "flash_bytes": 58412,
+    "flash_limit_bytes": 61440,
+    "ram_reserved_bytes": 28512,
+    "ram_limit_bytes": 32768,
+    "elf": {
+      "path": "build/Debug/uart_to_can/uart_to_can.elf",
+      "bytes": 2055860,
+      "sha256": "0e5fd2adf4fa6f87258ec69440332949c321dacbf0f34c80b992c84a2454f902"
+    },
+    "hex": {
+      "path": "build/Debug/uart_to_can/uart_to_can.hex",
+      "bytes": 164258,
+      "sha256": "4bdd88a77bdbe3450f711e83c81f739d19ea791c338a7ac5bd5fa7a6a06c4b4d"
+    },
+    "bin": {
+      "path": "build/Debug/uart_to_can/uart_to_can.bin",
+      "bytes": 58412,
+      "sha256": "e49ea7383b9b7424bba437b5a1e11b8968610462075ec20834230ca033290e62"
+    },
+    "map": {
+      "path": "build/Debug/uart_to_can/uart_to_can.map",
+      "bytes": 1284995,
+      "sha256": "f210da44bbf6040efe474f710f8ccf3d2e256d9b5b01e38da26018e64dd42140"
+    }
+  },
+  "Release": {
+    "flash_bytes": 51356,
+    "flash_limit_bytes": 61440,
+    "ram_reserved_bytes": 28512,
+    "ram_limit_bytes": 32768,
+    "elf": {
+      "path": "build/Release/uart_to_can/uart_to_can.elf",
+      "bytes": 256432,
+      "sha256": "5aec6f0e717c46fe4361e9dbc28adc1699632134023d729cc4ed2475803b3dd4"
+    },
+    "hex": {
+      "path": "build/Release/uart_to_can/uart_to_can.hex",
+      "bytes": 144426,
+      "sha256": "14ca3e4035de770db2b372a0f926e1f21b537dd1f49cfae3035e8244ffcfb45d"
+    },
+    "bin": {
+      "path": "build/Release/uart_to_can/uart_to_can.bin",
+      "bytes": 51356,
+      "sha256": "35103c5724dfbc97bb3f8e049283439b1ef5cc7c445cb56cf3d831a05e3288e8"
+    },
+    "map": {
+      "path": "build/Release/uart_to_can/uart_to_can.map",
+      "bytes": 391637,
+      "sha256": "ddc4065823ba483febf84387407b840ab131252381284cfc23b3953b70c6dbe5"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cmake.useCMakePresets": "always",
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/Debug/compile_commands.json",
+  "files.associations": {"*.h": "c"},
+  "files.exclude": {"**/__pycache__": true}
+}

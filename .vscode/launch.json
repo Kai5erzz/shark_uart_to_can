@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug STM32G431 (DAPLink)",
+      "type": "cortex-debug",
+      "request": "launch",
+      "servertype": "openocd",
+      "gdbPath": "gdb-multiarch",
+      "windows": {"gdbPath": "arm-none-eabi-gdb.exe"},
+      "cwd": "${workspaceFolder}",
+      "executable": "${workspaceFolder}/build/Debug/uart_to_can/uart_to_can.elf",
+      "configFiles": ["${workspaceFolder}/openocd/daplink_stm32g4.cfg"],
+      "device": "STM32G431CB",
+      "runToEntryPoint": "main",
+      "overrideLaunchCommands": ["monitor shark_reset_halt", "load", "monitor shark_reset_halt"],
+      "overrideRestartCommands": ["monitor shark_reset_halt"],
+      "overrideResetCommands": ["monitor shark_reset_halt"],
+      "preLaunchTask": "Build"
+    }
+  ]
+}

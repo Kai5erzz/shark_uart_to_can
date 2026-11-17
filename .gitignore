@@ -1,0 +1,7 @@
+build/
+dist/
+uart_to_can/build/
+__pycache__/
+*.pyc
+.venv/
+*.log

@@ -1,0 +1,49 @@
+{
+  "frames": 100000,
+  "duration_s": 14.80000000000291,
+  "bitrate": 1000000,
+  "fps": 6756.756756755428,
+  "sequence_gaps": 0,
+  "timestamp_groups": 149,
+  "max_frames_same_timestamp": 722,
+  "load_percent": 82.5531351351189,
+  "wire_bits": 12217864,
+  "limitations": "Successful observed frames only; includes CRC15/stuffing/IFS; excludes errors/retries. Batched host timestamps do not establish frame latency or short-window peaks.",
+  "ids": {
+    "0x010": {
+      "frames": 14785,
+      "fps": 998.98648648629,
+      "load_percent": 12.187635135132737
+    },
+    "0x011": {
+      "frames": 14785,
+      "fps": 998.98648648629,
+      "load_percent": 11.799864864862544
+    },
+    "0x1FF": {
+      "frames": 11010,
+      "fps": 743.9189189187726,
+      "load_percent": 9.447770270268412
+    },
+    "0x200": {
+      "frames": 14786,
+      "fps": 999.0540540538576,
+      "load_percent": 12.588081081078606
+    },
+    "0x201": {
+      "frames": 14938,
+      "fps": 1009.3243243241259,
+      "load_percent": 12.081594594592218
+    },
+    "0x202": {
+      "frames": 14910,
+      "fps": 1007.4324324322344,
+      "load_percent": 12.333101351348926
+    },
+    "0x206": {
+      "frames": 14786,
+      "fps": 999.0540540538576,
+      "load_percent": 12.115087837835455
+    }
+  }
+}
